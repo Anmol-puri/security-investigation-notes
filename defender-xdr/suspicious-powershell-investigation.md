@@ -4,7 +4,7 @@
 
 Microsoft Defender XDR generated a behavioral alert after PowerShell was launched through an AI-assisted development application. The commands read temporary files, processed HTML, invoked Windows Data Protection API (DPAPI), and converted data to Base64. These are dual-use behaviors: legitimate applications use them, but attackers also use them for collection and credential access.
 
-> This case study uses fictional identities and sanitized technical details. It does not describe any specific organization.
+> This case study uses fictional identities and sanitized technical details. 
 
 ## Investigation Scenario
 
