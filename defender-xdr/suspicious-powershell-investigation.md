@@ -91,7 +91,7 @@ DeviceNetworkEvents
 - No malicious payload, persistence, or suspicious follow-on connection was found.
 - File deletions were limited to an application-owned plugin directory.
 
-The evidence was most consistent with legitimate development and plugin-management activity. The conclusion relied on the complete behavior—not on trusting the parent application or dismissing PowerShell as harmless.
+The evidence was most consistent with legitimate development and plugin-management activity. The conclusion relied on the complete behavior - not on trusting the parent application or dismissing PowerShell as harmless.
 
 ## Lessons Learned
 
